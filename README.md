@@ -1,2 +1,2 @@
 # CSE240
-# Homework assignments for CSE240 (Programming Languages)
+Homework assignments for CSE240 (Programming Languages)
